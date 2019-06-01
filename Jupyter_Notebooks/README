@@ -1,3 +1,4 @@
 There are two jupyter notebooks used in the project.
 1. The notebook in the 'Training' folder is used to train and test on the dataset.
 2. The notebook in the 'Prediction' folder is used detect the presence/ absence of fire in given image using the trained model.(You can find the model in the 'saved_model' folder in the main repository.
+3. Follow along the comments in the notebook to understand the code.
