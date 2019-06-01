@@ -8,3 +8,8 @@ The dataset has been collected from several sources on the internet. It contains
 
 Do check the 'code' folder for the code required to extract images from videos and seggregation of images into sets.
 The 'Jupyter Notebooks' folder contains the jupyter notebooks that were used to train, test the model and perform predictions.
+
+References:
+1. https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/
+2. https://zenodo.org/record/836749#.XPJhuHUzbCI
+3. https://github.com/cair/Fire-Detection-Image-Dataset
