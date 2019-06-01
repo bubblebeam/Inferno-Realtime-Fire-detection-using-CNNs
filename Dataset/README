@@ -4,7 +4,7 @@ https://drive.google.com/open?id=1qpnajiy9wa5dZStqIhFHVgy2hE_fK4fb
 Size of dataset: 3GB
 Number of images: 60,162
 
-The dataset has been collected from several sources on the internet. It contains images mainly extracted from videos and gathered from other repos. The images have then been seggregated into three sets namely: Train, valid and Test each containing two folders labelled Fire and nonfire (which also acts as the labels for the images inside them) consisting of the respective images and representing the two classes concerned with prediction.
+The dataset has been collected from several sources on the internet. It contains images mainly extracted from videos and gathered from other repos (See references). The images have then been seggregated into three sets namely: Train, valid and Test each containing two folders labelled Fire and nonfire (which also acts as the labels for the images inside them) consisting of the respective images and representing the two classes concerned with prediction.
 
 Do check the 'code' folder for the code required to extract images from videos and seggregation of images into sets.
 The 'Jupyter Notebooks' folder contains the jupyter notebooks that were used to train, test the model and perform predictions.
