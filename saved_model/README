@@ -1,2 +1,2 @@
-This is the MobileNet model that is trained on my dataset for detecting fire.
+This is the MobileNet model that I've trained on my dataset for detecting fire.
 The model has acheived an awesome accuracy of about 98%
