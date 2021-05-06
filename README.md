@@ -14,6 +14,8 @@ by the model to classify a frame as fire / non-fire is around 0.78 seconds on th
 In case of positive fire detection consecutively for 20 frames, the notification system is
 triggered and a fire alarm is raised.
 
+For more details view the research publication for the project, Do cite if used :)
+https://ieeexplore.ieee.org/document/8978439
 
 Technologies Used: Python3, Deep learning: Convolutional Neural Networks (CNN),
 openCV, Tensorflow, Keras, Computer Vision, Cloud Computing, Transfer Learning.
