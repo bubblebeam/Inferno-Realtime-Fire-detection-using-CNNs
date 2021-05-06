@@ -15,7 +15,10 @@ In case of positive fire detection consecutively for 20 frames, the notification
 triggered and a fire alarm is raised.
 
 For more details view the research publication for the project, Do cite if used :)
+
 https://ieeexplore.ieee.org/document/8978439
+https://www.researchgate.net/publication/336639483_FPGA_Deployable_Fire_Detection_Model_for_Real-Time_Video_Surveillance_Systems_Using_Convolutional_Neural_Networks
+
 
 Technologies Used: Python3, Deep learning: Convolutional Neural Networks (CNN),
 openCV, Tensorflow, Keras, Computer Vision, Cloud Computing, Transfer Learning.
